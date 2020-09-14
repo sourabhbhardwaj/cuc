@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.code</groupId>
-  <artifactId>maven-cucumber</artifactId>
+  <artifactId>cuc-maven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>maven-cucumber</name>
+  <name>cuc-maven</name>
   <url>http://maven.apache.org</url>
 
   <properties>
